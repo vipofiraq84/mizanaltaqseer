@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ميزان التقصير</string>
+    <string name="title_activity_main">ميزان التقصير</string>
+    <string name="package_name">iq.traffic.mizan</string>
+    <string name="custom_url_scheme">iq.traffic.mizan</string>
+</resources>

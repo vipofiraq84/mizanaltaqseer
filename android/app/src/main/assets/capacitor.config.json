@@ -1,0 +1,8 @@
+{
+	"appId": "iq.traffic.mizan",
+	"appName": "ميزان التقصير",
+	"webDir": "www",
+	"android": {
+		"allowMixedContent": false
+	}
+}
